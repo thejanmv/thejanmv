@@ -1,9 +1,9 @@
 Hi there 👋
 
-- 🔭 I’m currently working on an iOS app development project
-- 🌱 I’m currently learning Software Engineering
-- 👯 I’m looking forward to collaborate
-- 🤔 I’m looking for help with being a better developer
+- 🔭 Final year CS student at Swinburne University 
+- 🌱 Currently mastering automation and machine learning
+- 👯 I’m looking forward to collaborate in exciting projects and becoming a better developer
+- 🤔 Experienced in flutter app dev, CI/CD devops pipelines, fullstack-web and automation with python.
 <!--
 **thejanmv/thejanmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
