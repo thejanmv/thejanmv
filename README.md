@@ -1,9 +1,9 @@
 Hi there 👋 
 
 - 🔭 CS grad from Swinburne University 
-- 🌱🤖 Currently pursuing Data Analytics  ( Google Certified )
-- 🚀 Wanna be a Data Enginner some day
-- 👨‍💻 Experienced in flutter app dev, CI/CD devops pipelines, fullstack-web and automation with python and some more.
+- 🌱🤖 Ml/AI/Data Engineer
+- 🚀 Building an AI SaaS Startup
+- 👨‍💻 Experienced in CI/CD , fullstack, Automation and now stepping into Agentic AI
 <!--
 **thejanmv/thejanmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
